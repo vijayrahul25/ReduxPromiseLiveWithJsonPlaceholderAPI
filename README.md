@@ -1,2 +1,0 @@
-# ReduxPromiseLiveWithJsonPlaceholderAPI
-Created with CodeSandbox
